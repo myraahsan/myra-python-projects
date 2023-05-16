@@ -1,2 +1,2 @@
 # myra-python-projects
-This will have all my Python projects
+This has all my Python projects
