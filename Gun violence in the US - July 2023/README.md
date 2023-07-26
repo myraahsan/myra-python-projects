@@ -8,7 +8,7 @@ Click [here](https://public.tableau.com/app/profile/myra.ahsan/viz/Gunviolence_1
 
 
 ### Tools
-The project used Excel, Python and Tableau. The following libraries were used in Python:
+The project used Python and Tableau. The following libraries were used in Python:
 
 Pandas
 
